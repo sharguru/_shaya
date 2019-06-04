@@ -1,2 +1,2 @@
-z=list(map(int,input().split()))
-print(max(z))
+pp=list(map(int,input().split()))
+print(max(pp))
